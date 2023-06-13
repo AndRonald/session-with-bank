@@ -14,5 +14,4 @@ Teste com url, caso seja digitado sem estar logado na sessão.
 
 ```
 PHP
-HTML
 ```
